@@ -1,0 +1,30 @@
+[
+  {
+    "make":"AMC",
+    "model":"Gremlin",
+    "color":"Blue",
+    "year":"1972",
+    "id":1
+  },
+  {
+    "make":"Ford",
+    "model":"Pinto",
+    "color":"Orange",
+    "year":"1973",
+    "id":2
+  },
+  {
+    "make":"Dodge",
+    "model":"Van",
+    "color":"Yellow",
+    "year":"1971",
+    "id":3
+  },
+  {
+    "make":"Chevy",
+    "model":"Corvair",
+    "color":"Blue",
+    "year":"1965",
+    "id":4
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "owner_id": 2,
+    "related_ids": [1, 3],
+    "id": 1
+  },
+  {
+    "owner_id": 3,
+    "related_ids": [2],
+    "id": 2
+  }
+]
